@@ -1,0 +1,2 @@
+Network	V    	E     	M(k)  	M(ks)	M(ks+)	M(KS_PEW)	M(mdd)	M(theta)	M(EigenVec)	M(LSS)	M(DNSE)	
+Toy_DNS	  20	  29	0.6400	0.4056	0.6915	0.4610	0.9378	0.6400	0.8581	0.7091	0.9277	0.8975	0.9378	0.9378	

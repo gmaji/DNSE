@@ -1,0 +1,32 @@
+# Toy network for DNS paper with  20 nodes 29  edges. Avg degree=2.9, D=8, Graph density=0.153, avg path length=3.4, avg clustering coefficient=0.452, beta_th=0.276
+# FromNodeId	ToNodeId
+a	b
+a	c
+a	d
+a	e
+a	f
+b	c
+b	d
+b	o
+b	p
+c	d
+e	f
+e	g
+f	g
+f	q
+f	r
+g	h
+g	t
+h	i
+h	j
+h	t
+i	j
+i	k
+i	n
+j	l
+j	m
+n	s
+q	r
+q	t
+r	t
+

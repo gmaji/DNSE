@@ -1,0 +1,22 @@
+rank 	SIR 	k 	ks 	LSS 	DNSE 	
+1  	f	a,b,f	a,b,c,d,e,f,g,q,r,t	f	a	
+2  	a	g,h,i,j,t	h,i,j	g	f	
+3  	g	c,d,e,q,r	k,l,m,n,o,p,s	a	b	
+4  	t	n	-	t	g	
+5  	h	k,l,m,o,p,s	-	e	t	
+6  	e	-	-	q,r	h	
+7  	b	-	-	b	e	
+8  	q	-	-	h	c,d	
+9  	r	-	-	c,d	q,r	
+10  	d	-	-	i	i	
+11  	c	-	-	j	j	
+12  	i	-	-	o,p	n	
+13  	j	-	-	n	o,p	
+14  	n	-	-	k,l,m	k,l,m	
+15  	o	-	-	s	s	
+16  	p	-	-	-	-	
+17  	m	-	-	-	-	
+18  	l	-	-	-	-	
+19  	k	-	-	-	-	
+20  	s	-	-	-	-	
+
